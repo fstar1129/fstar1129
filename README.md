@@ -14,3 +14,149 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fstar1129&show_icons=true&locale=en" alt="fstar1129" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fstar1129&" alt="fstar1129" /></p>
+
+<h1 align="center">⚡ Skills</h1>
+
+## 👨‍⚖️ Language
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&labelColor=black&color=darkgreen&logo=c)
+![PHP](https://img.shields.io/badge/-PHP-60599C?style=flat&labelColor=black&color=darkgreen&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&labelColor=black&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&labelColor=black&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&labelColor=black&color=blue&logo=Python)
+
+## ⛓ Blockchain
+
+![Ethereum](https://img.shields.io/badge/-Ethereum-1C1C1D?style=flat&labelColor=black&logo=ethereum)
+![Binance](https://img.shields.io/badge/-Binance-222200?style=flat&labelColor=black&logo=binance)
+![Rust](https://img.shields.io/badge/Rust-363636?style=flat&labelColor=black&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&labelColor=black&logo=solidity)
+![Web3](https://img.shields.io/badge/Web_3-c16822?style=flat&labelColor=black&logo=web3.js)
+
+## 🛒 Backend
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&labelColor=black&color=green&logo=Node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&labelColor=black&color=orange&logo=Django)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&labelColor=black&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&labelColor=black&logo=apollo-graphql)
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat&labelColor=black&color=green&logo=Next.js)
+![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-61dafb?style=flat&labelColor=black&color=green&logo=Nuxt.js)
+
+## 🎆 Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=black&color=darkorange&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=black&logo=css3)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&labelColor=black&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&labelColor=black&logo=vue.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&labelColor=black&logo=bootstrap)
+
+## 🧵 Database
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&labelColor=black&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&labelColor=black&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-31aafb?style=flat&labelColor=black&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-812a1b?style=flat&labelColor=black&logo=Redis)
+
+## 🔮 Hosting Service
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat&labelColor=black&logo=microsoft-azure)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&labelColor=black&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat&labelColor=black&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&labelColor=black&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&labelColor=black&logo=google-cloud)
+
+## 🔌 Version Control Management
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&labelColor=black&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=black&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&labelColor=black&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat&labelColor=black&logo=bitbucket)
+
+<h1 align="center">🏆 Last Projects</h1>
+
+<h2 align="center">Defi</h2>
+
+<p align="center">
+    <a href="https://www.cap.finance/">
+			<img src="./assets/defi/cap.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://dfx.finance/">
+    	<img src="./assets/defi/dfx.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://drops.co/">
+    	<img src="./assets/defi/drops.png" width="25%"/>
+		</a>
+</p>
+<p align="center">
+    <a href="https://hakka.finance/">
+			<img src="./assets/defi/hakka.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://pooltogether.com/">
+    	<img src="./assets/defi/pool.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://xtoken.market/">
+    	<img src="./assets/defi/xtoken.png" width="25%"/>
+		</a>
+</p>
+
+<h2 align="center">DEX</h2>
+
+<p align="center">
+    <a href="https://app.wault.finance/">
+			<img src="./assets/dex/wault.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://zoomswap.io/">
+    	<img src="./assets/dex/zoomswap.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://app.shieldex.io/">
+    	<img src="./assets/dex/shieldex.png" width="25%"/>
+		</a>
+</p>
+
+<h2 align="center">NFT</h2>
+
+<p align="center">
+    <a href="https://www.cyberkongz.com/">
+			<img src="./assets/nft/kongz.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://team3d.io/">
+    	<img src="./assets/nft/team3d.jpg" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://app-v2.revomon.io/">
+    	<img src="./assets/nft/revomon.png" width="25%"/>
+		</a>
+</p>
+
+<p align="center">
+    <a href="https://www.coolcatsnft.com/">
+			<img src="./assets/nft/coolcat.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://dontbuymeme.com/">
+    	<img src="./assets/nft/meme.png" width="25%"/>
+		</a>
+</p>
+
+<h2 align="center">P2E</h2>
+
+<p align="center">
+    <a href="https://nftchampions.cc/">
+			<img src="./assets/p2e/champion.jpg" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://fantasyworld.game/">
+    	<img src="./assets/p2e/fantasy.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://griffinart.finance/">
+    	<img src="./assets/p2e/griffin.png" width="25%"/>
+		</a>
+</p>
